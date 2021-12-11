@@ -1,4 +1,4 @@
-# Railway CLI
+# Railway CLI on Termux
 
 ![Build](https://github.com/railwayapp/cli/workflows/Build/badge.svg)
 
