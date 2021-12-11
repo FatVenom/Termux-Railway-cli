@@ -10,10 +10,12 @@ This is the command line interface for [Railway](https://railway.app). Use it to
 
 ## Installation
 
-The Railway CLI is available through
+The Railway Termux CLI is available through
 ```shell
 sh -c "$(curl -sSL https://raw.githubusercontent.com/FatVenom/cli/master/install.sh)"
 ```
+### other sources 
+available here https://github.com/railwayapp/cli
 
 ### From source
 See [CONTRIBUTING.md](https://github.com/railwayapp/cli/blob/master/CONTRIBUTING.md) for information on setting up this repo locally.
