@@ -10,7 +10,7 @@ set -e
 #   sh -c "$(curl -sSL https://github.com/railwayapp/cli/blob/master/install.sh)"
 #
 
-INSTALL_DIR=${INSTALL_DIR:-"/usr/local/bin"}
+INSTALL_DIR=${INSTALL_DIR:-"/data/data/com.termux/files/usr/bin"}
 BINARY_NAME=${BINARY_NAME:-"railway"}
 
 REPO_NAME="railwayapp/cli"
